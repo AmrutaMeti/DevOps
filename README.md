@@ -1,2 +1,1 @@
-# DevOps
-Learning Devops
+#Devops Practice
